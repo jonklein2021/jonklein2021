@@ -1,3 +1,7 @@
 ### Hi, I'm Jon 👋
 
-I'm a Computer Science and Math student at Lehigh University interested in data structures, algorithms, combinatorics and graph theory. Here, you can find most of my projects, such as [rust-filestore](https://github.com/jonklein2021/rust-filestore), [chat-chambers](https://github.com/jonklein2021/chat-chambers), and [msm-playground](https://github.com/jonklein2021/msm-playground).
+I'm a Senior Computer Science and Math student at Lehigh University graduating in May 2025
+
+I'm job-hunting for entry-level software engineering roles at the moment, so please reach out if you know of anything!
+
+Enjoy snooping around my projects :)
