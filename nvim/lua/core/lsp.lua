@@ -6,9 +6,9 @@ vim.lsp.enable({
     "pyright",
 })
 
--- vim.lsp.config('*', {
---     root_markers = { '.git', 'README.md' },
--- })
+vim.lsp.config('*', {
+    root_markers = { '.git', '.root', 'README.md' },
+})
 
 vim.api.nvim_create_autocmd('LspAttach', {
     group = vim.api.nvim_create_augroup('my.lsp', {}),
@@ -34,7 +34,7 @@ vim.api.nvim_create_autocmd('LspAttach', {
 })
 
 vim.diagnostic.config({
-    virtual_lines = true,
+    -- virtual_lines = true,
     virtual_text = true,
     underline = true,
     update_in_insert = false,
